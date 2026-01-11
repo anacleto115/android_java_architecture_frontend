@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_drawer_items.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\drawer_items.xml"
+    },
+    {
+        "merged": "com.example.android.app-merged_res-25:/layout_person_types.xml.flat",
+        "source": "com.example.android.app-main-27:/layout/person_types.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_dt_persons.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\dt_persons.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_person_types_pp.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\person_types_pp.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_login.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_main_window.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\main_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_person_types.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\person_types.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_persons.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\persons.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_person.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_home.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\layout_dt_person_types.xml.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\layout\\dt_person_types.xml"
+    },
+    {
+        "merged": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\AA\\.gradle\\daemon\\7.5\\com.example.android.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

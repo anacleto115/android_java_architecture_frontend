@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_context/Android.lib_communication_context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_communication_core/Android.lib_communication_core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_context/Android.lib_domain_context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_domain_entities/Android.lib_domain_entities.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_infrastructure/Android.lib_infrastructure.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_language/Android.lib_language.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_context/Android.lib_presentation_context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_presentation_core/Android.lib_presentation_core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib_utilities/Android.lib_utilities.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.iml" filepath="$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ut_persons/Android.ut_persons.unitTest.iml" />
+    </modules>
+  </component>
+</project>
